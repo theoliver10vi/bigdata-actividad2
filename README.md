@@ -52,3 +52,4 @@ jupyter notebook
 
 **Equipo 29**
 Edmundo Carmona Galindo | A01796647
+Oliver Viveros Juarez | A01796912
