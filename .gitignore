@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (no subir datasets grandes)
+Data/
+*.csv
+*.jsonl
+*.json
+*.parquet
+
+# Output files
+output/
+partitions/
+muestra_estratificada/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
